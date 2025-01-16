@@ -1,6 +1,6 @@
 # EL UNIVERSITARIO
 
- En este repositorio se encuentra la realización del filtro asignado para la evaluación del módulo MySQL 2.
+En este repositorio se encuentra la realización del proyecto asignado para el repaso del módulo MySQL 2.
 
  ## Descripción del proyecto
 
